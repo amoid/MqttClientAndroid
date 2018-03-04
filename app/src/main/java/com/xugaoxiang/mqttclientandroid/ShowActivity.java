@@ -7,12 +7,16 @@ import android.graphics.Paint;
 import android.graphics.Rect;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.util.DisplayMetrics;
+import android.view.Display;
 import android.view.SurfaceHolder;
 import android.view.SurfaceHolder.Callback;
 import android.view.SurfaceView;
 import android.view.View;
 import android.view.View.OnClickListener;
+import android.view.WindowManager;
 import android.widget.Button;
+import android.widget.Toast;
 
 import java.util.Timer;
 import java.util.TimerTask;
@@ -38,8 +42,18 @@ public class ShowActivity extends AppCompatActivity {
         // 初始化SurfaceHolder对象
         holder = surface.getHolder();
         paint = new Paint();
-        paint.setColor(Color.GREEN);
+        paint.setColor(Color.RED);
         paint.setStrokeWidth(100);
+
+        //WindowManager windowsManager = this.getWindowManager();
+        //DisplayMetrics displayMetrics = new DisplayMetrics();
+
+        //windowsManager.getDefaultDisplay().getMetrics(displayMetrics);
+
+        //HEIGHT = displayMetrics.widthPixels;
+        //WIDTH = displayMetrics.heightPixels;
+
+        Toast.makeText(getApplicationContext(), " H is " + HEIGHT + " W is " + WIDTH, Toast.LENGTH_SHORT).show();
 
         Button sin = (Button)findViewById(R.id.sin);
         Button cos = (Button)findViewById(R.id.cos);
@@ -83,6 +97,7 @@ public class ShowActivity extends AppCompatActivity {
                 timer.schedule(task , 0 , 30);
             }
         });
+
         sin.setOnClickListener(listener);
         cos.setOnClickListener(listener);
         exitBtn.setOnClickListener(listener);
