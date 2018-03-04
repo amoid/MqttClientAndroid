@@ -6,6 +6,7 @@ import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.Rect;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.SurfaceHolder;
 import android.view.SurfaceHolder.Callback;
 import android.view.SurfaceView;
@@ -16,8 +17,7 @@ import android.widget.Button;
 import java.util.Timer;
 import java.util.TimerTask;
 
-public class ShowActivity extends Activity
-{
+public class ShowActivity extends AppCompatActivity {
     private SurfaceHolder holder;
     private Paint paint;
     final int HEIGHT = 320;
@@ -32,7 +32,7 @@ public class ShowActivity extends Activity
     public void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_show);
         final SurfaceView surface = (SurfaceView)
                 findViewById(R.id.show);
         // 初始化SurfaceHolder对象
