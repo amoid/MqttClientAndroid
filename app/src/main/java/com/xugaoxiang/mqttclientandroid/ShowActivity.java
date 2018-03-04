@@ -20,8 +20,8 @@ import java.util.TimerTask;
 public class ShowActivity extends AppCompatActivity {
     private SurfaceHolder holder;
     private Paint paint;
-    final int HEIGHT = 320;
-    final int WIDTH = 768;
+    final int HEIGHT = 1080;
+    final int WIDTH = 1920;
     final int X_OFFSET = 5;
     private int cx = X_OFFSET;
     // 实际的Y轴的位置
@@ -39,9 +39,12 @@ public class ShowActivity extends AppCompatActivity {
         holder = surface.getHolder();
         paint = new Paint();
         paint.setColor(Color.GREEN);
-        paint.setStrokeWidth(3);
+        paint.setStrokeWidth(100);
+
         Button sin = (Button)findViewById(R.id.sin);
         Button cos = (Button)findViewById(R.id.cos);
+        Button exitBtn = (Button)findViewById(R.id.exit);
+
         OnClickListener listener = (new OnClickListener()
         {
             @Override
@@ -57,6 +60,9 @@ public class ShowActivity extends AppCompatActivity {
                 {
                     public void run()
                     {
+                        if (source.getId() == R.id.exit) {
+                            finish();
+                        }
                         int cy = source.getId() == R.id.sin ? centerY
                                 - (int)(100 * Math.sin((cx - 5) * 2
                                 * Math.PI / 150))
@@ -79,6 +85,8 @@ public class ShowActivity extends AppCompatActivity {
         });
         sin.setOnClickListener(listener);
         cos.setOnClickListener(listener);
+        exitBtn.setOnClickListener(listener);
+
         holder.addCallback(new Callback()
         {
             @Override
