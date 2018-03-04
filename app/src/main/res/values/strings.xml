@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MqttClientAndroid</string>
+    <string name="title_activity_show">ShowActivity</string>
 </resources>

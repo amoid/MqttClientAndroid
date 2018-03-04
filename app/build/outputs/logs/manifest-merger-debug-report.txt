@@ -1,69 +1,110 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml:1:1-23:12
+ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:design:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\3c298af21545c778f8863fd7eda39619\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\ac036391a0b95ec5666231423eeeaedb\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\89d3fbea3bdb332797b976e5ee7f5b3a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\65703b473397745a2149c36d950abede\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\73cc33328c8657d954f2f309a83d5770\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\e1d1e857f698892b3e7dd902427214dc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\de6311a4cf4dcc5851203edc4fca78d1\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:2:1-27:12
 	package
-		ADDED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml:2:5-47
-		INJECTED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml
-		INJECTED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml
+		ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml
-		INJECTED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml
-	xmlns:android
-		ADDED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml:1:11-69
+		INJECTED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml
+		ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml
-		INJECTED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml
+		ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml:5:5-67
+ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:6:5-67
 	android:name
-		ADDED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:6:22-64
 application
-ADDED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml:7:5-21:19
-MERGED from [com.android.support:appcompat-v7:23.2.1] /home/djstava/Downloads/MqttClientAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:23.2.1] /home/djstava/Downloads/MqttClientAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.2.1] /home/djstava/Downloads/MqttClientAndroid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.2.1] /home/djstava/Downloads/MqttClientAndroid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.2.1] /home/djstava/Downloads/MqttClientAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:23.2.1] /home/djstava/Downloads/MqttClientAndroid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.2.1] /home/djstava/Downloads/MqttClientAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
-	android:label
-		ADDED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml:10:9-41
+ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:8:5-25:19
+MERGED from [com.android.support:design:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\3c298af21545c778f8863fd7eda39619\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\3c298af21545c778f8863fd7eda39619\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\ac036391a0b95ec5666231423eeeaedb\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\ac036391a0b95ec5666231423eeeaedb\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\89d3fbea3bdb332797b976e5ee7f5b3a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\89d3fbea3bdb332797b976e5ee7f5b3a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\73cc33328c8657d954f2f309a83d5770\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\73cc33328c8657d954f2f309a83d5770\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\e1d1e857f698892b3e7dd902427214dc\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\e1d1e857f698892b3e7dd902427214dc\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\de6311a4cf4dcc5851203edc4fca78d1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\de6311a4cf4dcc5851203edc4fca78d1\AndroidManifest.xml:22:5-20
 	android:supportsRtl
-		ADDED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml:11:9-35
-	android:allowBackup
-		ADDED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:11:9-41
 	android:icon
-		ADDED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml:12:9-40
+		ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:13:9-40
 activity#com.xugaoxiang.mqttclientandroid.MainActivity
-ADDED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml:14:9-19:20
+ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml:14:19-79
+		ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:14:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml:15:13-18:29
+ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml:17:17-77
+ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml:17:27-74
+		ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.xugaoxiang.mqttclientandroid.ShowActivity
+ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:21:9-24:68
+	android:label
+		ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:23:13-56
+	android:theme
+		ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml:22:13-41
 uses-sdk
-INJECTED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:23.2.1] /home/djstava/Downloads/MqttClientAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:23.2.1] /home/djstava/Downloads/MqttClientAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:animated-vector-drawable:23.2.1] /home/djstava/Downloads/MqttClientAndroid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.2.1] /home/djstava/Downloads/MqttClientAndroid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.2.1] /home/djstava/Downloads/MqttClientAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:23.2.1] /home/djstava/Downloads/MqttClientAndroid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.2.1] /home/djstava/Downloads/MqttClientAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+INJECTED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml
+INJECTED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\3c298af21545c778f8863fd7eda39619\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\3c298af21545c778f8863fd7eda39619\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\ac036391a0b95ec5666231423eeeaedb\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\ac036391a0b95ec5666231423eeeaedb\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\89d3fbea3bdb332797b976e5ee7f5b3a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\89d3fbea3bdb332797b976e5ee7f5b3a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\65703b473397745a2149c36d950abede\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\65703b473397745a2149c36d950abede\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\73cc33328c8657d954f2f309a83d5770\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\73cc33328c8657d954f2f309a83d5770\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\e1d1e857f698892b3e7dd902427214dc\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\e1d1e857f698892b3e7dd902427214dc\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\de6311a4cf4dcc5851203edc4fca78d1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\de6311a4cf4dcc5851203edc4fca78d1\AndroidManifest.xml:20:5-43
+INJECTED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml
+INJECTED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.2.1] /home/djstava/Downloads/MqttClientAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\zewan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\ac036391a0b95ec5666231423eeeaedb\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml
-		INJECTED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml
+		ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml
-		INJECTED from /home/djstava/Downloads/MqttClientAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml
+		ADDED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android_dev\MqttClientAndroid\app\src\main\AndroidManifest.xml
