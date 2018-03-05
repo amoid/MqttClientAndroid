@@ -24,7 +24,7 @@ import java.util.concurrent.ExecutionException;
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = MainActivity.class.getCanonicalName();
 
-    public static final String URL = "tcp://10.10.10.48:1883";
+    public static final String URL = "tcp://139.159.216.84:1883";
 
     private String userName = "admin";
 
@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
     private String clientId = null;
 
-    private static final String TOPIC = "shopping";
+    private static final String TOPIC = "671701096-60";
     private static final String TOPIC_MESSAGE = "What a nice day! Go shopping with me?";
 
 
