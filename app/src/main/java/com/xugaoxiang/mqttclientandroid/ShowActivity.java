@@ -121,12 +121,6 @@ public class ShowActivity extends AppCompatActivity {
         });
     }
 
-    @Override
-    protected void onDestroy() {
-        super.onDestroy();
-        finish();
-    }
-
     private void drawBack(SurfaceHolder holder)
     {
         Canvas canvas = holder.lockCanvas();
