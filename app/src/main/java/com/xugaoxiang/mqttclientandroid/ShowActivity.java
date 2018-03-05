@@ -36,6 +36,7 @@ public class ShowActivity extends AppCompatActivity {
     public void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
+        ActivityCollector.addActivity(this);
         setContentView(R.layout.activity_show);
         final SurfaceView surface = (SurfaceView)
                 findViewById(R.id.show);
@@ -75,7 +76,7 @@ public class ShowActivity extends AppCompatActivity {
                     public void run()
                     {
                         if (source.getId() == R.id.exit) {
-                            finish();
+                            ActivityCollector.finishAll();
                         }
                         int cy = source.getId() == R.id.sin ? centerY
                                 - (int)(100 * Math.sin((cx - 5) * 2
@@ -119,6 +120,13 @@ public class ShowActivity extends AppCompatActivity {
             }
         });
     }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        finish();
+    }
+
     private void drawBack(SurfaceHolder holder)
     {
         Canvas canvas = holder.lockCanvas();
