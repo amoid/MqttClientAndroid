@@ -1,4 +1,4 @@
-package com.amoid.mqttclientandroid;
+package com.amoid.Smartbear;
 
 import android.graphics.Canvas;
 import android.graphics.Color;
