@@ -20,17 +20,19 @@ import java.util.List;
 
 
 public class MainActivity extends AppCompatActivity {
+    private static int evtCnt;
     private static final String TAG = MainActivity.class.getCanonicalName();
 
-    public static final String URL = "tcp://139.159.216.84:1883";
-
+    //public static final String URL = "tcp://139.159.216.84:1883";
+    public static final String URL = "tcp://192.168.1.8:1883";
     private String userName = "admin";
 
     private String password = "password";
 
     private String clientId = null;
 
-    private static final String TOPIC = "671701096-60";
+    //private static final String TOPIC = "671701096-60";
+    private static final String TOPIC = "shopping";
     private static final String TOPIC_MESSAGE = "What a nice day! Go shopping with me?";
 
 
@@ -41,6 +43,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         ActivityCollector.addActivity(this);
         clientId = getAddressMacByIf();
+
+        evtCnt = 0;
 
         if (clientId == null) {
             clientId = getSerialNum();
@@ -124,7 +128,9 @@ public class MainActivity extends AppCompatActivity {
      */
     @Subscribe
     public void onEvent(MqttMessage message) {
-        Log.d(TAG,message.toString());
+        evtCnt++;
+
+        Log.d(TAG,"This is " + evtCnt + message.toString());
     }
 
     @Override
