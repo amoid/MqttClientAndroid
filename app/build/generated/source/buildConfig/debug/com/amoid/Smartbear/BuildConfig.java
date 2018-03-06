@@ -1,7 +1,7 @@
 /**
  * Automatically generated file. DO NOT MODIFY
  */
-package com.amoid.Smartbear;
+package com.amoid.smartbear;
 
 public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");

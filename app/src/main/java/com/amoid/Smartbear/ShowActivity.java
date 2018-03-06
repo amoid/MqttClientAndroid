@@ -1,4 +1,4 @@
-package com.amoid.Smartbear;
+package com.amoid.smartbear;
 
 import android.graphics.Canvas;
 import android.graphics.Color;

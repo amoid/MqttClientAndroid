@@ -1,4 +1,4 @@
-package com.amoid.Smartbear.mqtt;
+package com.amoid.smartbear.mqtt;
 
 import android.util.Log;
 

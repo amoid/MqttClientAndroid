@@ -1,4 +1,4 @@
-package com.amoid.Smartbear;
+package com.amoid.smartbear;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -7,7 +7,7 @@ import android.util.Log;
 import android.view.View;
 import android.view.Window;
 
-import com.amoid.Smartbear.mqtt.MqttManager;
+import com.amoid.smartbear.mqtt.MqttManager;
 
 import org.eclipse.paho.client.mqttv3.MqttException;
 import org.eclipse.paho.client.mqttv3.MqttMessage;

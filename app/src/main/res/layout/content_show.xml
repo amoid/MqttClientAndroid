@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.amoid.Smartbear.ShowActivity"
+    tools:context="com.amoid.smartbear.ShowActivity"
     tools:showIn="@layout/activity_show">
 
 </android.support.constraint.ConstraintLayout>

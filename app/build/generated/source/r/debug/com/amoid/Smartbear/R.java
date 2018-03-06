@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.amoid.Smartbear;
+package com.amoid.smartbear;
 
 public final class R {
   public static final class anim {
@@ -3537,7 +3537,7 @@ public final class R {
      */
     public static final int ActionBarLayout_android_layout_gravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#background}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3549,7 +3549,7 @@ public final class R {
      */
     public static final int ActionBar_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3564,7 +3564,7 @@ public final class R {
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#backgroundStacked}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#backgroundStacked}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3579,7 +3579,7 @@ public final class R {
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3592,7 +3592,7 @@ public final class R {
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3605,7 +3605,7 @@ public final class R {
      */
     public static final int ActionBar_contentInsetLeft=4;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3618,7 +3618,7 @@ public final class R {
      */
     public static final int ActionBar_contentInsetRight=5;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3631,7 +3631,7 @@ public final class R {
      */
     public static final int ActionBar_contentInsetStart=6;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#customNavigationLayout}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#customNavigationLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3643,7 +3643,7 @@ public final class R {
      */
     public static final int ActionBar_customNavigationLayout=7;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#displayOptions}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#displayOptions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -3665,7 +3665,7 @@ public final class R {
      */
     public static final int ActionBar_displayOptions=8;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#divider}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3677,7 +3677,7 @@ public final class R {
      */
     public static final int ActionBar_divider=9;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#elevation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3690,7 +3690,7 @@ public final class R {
      */
     public static final int ActionBar_elevation=10;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#height}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3703,7 +3703,7 @@ public final class R {
      */
     public static final int ActionBar_height=11;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#hideOnContentScroll}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#hideOnContentScroll}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -3713,7 +3713,7 @@ public final class R {
      */
     public static final int ActionBar_hideOnContentScroll=12;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3725,7 +3725,7 @@ public final class R {
      */
     public static final int ActionBar_homeAsUpIndicator=13;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#homeLayout}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#homeLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3737,7 +3737,7 @@ public final class R {
      */
     public static final int ActionBar_homeLayout=14;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#icon}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#icon}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3749,7 +3749,7 @@ public final class R {
      */
     public static final int ActionBar_icon=15;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#indeterminateProgressStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#indeterminateProgressStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3761,7 +3761,7 @@ public final class R {
      */
     public static final int ActionBar_indeterminateProgressStyle=16;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#itemPadding}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#itemPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3774,7 +3774,7 @@ public final class R {
      */
     public static final int ActionBar_itemPadding=17;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#logo}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3786,7 +3786,7 @@ public final class R {
      */
     public static final int ActionBar_logo=18;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#navigationMode}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#navigationMode}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -3804,7 +3804,7 @@ public final class R {
      */
     public static final int ActionBar_navigationMode=19;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#popupTheme}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3816,7 +3816,7 @@ public final class R {
      */
     public static final int ActionBar_popupTheme=20;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#progressBarPadding}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#progressBarPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3829,7 +3829,7 @@ public final class R {
      */
     public static final int ActionBar_progressBarPadding=21;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#progressBarStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#progressBarStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3841,7 +3841,7 @@ public final class R {
      */
     public static final int ActionBar_progressBarStyle=22;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#subtitle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -3851,7 +3851,7 @@ public final class R {
      */
     public static final int ActionBar_subtitle=23;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3863,7 +3863,7 @@ public final class R {
      */
     public static final int ActionBar_subtitleTextStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#title}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -3873,7 +3873,7 @@ public final class R {
      */
     public static final int ActionBar_title=25;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3939,7 +3939,7 @@ public final class R {
         0x7f020109, 0x7f020135
       };
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#background}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3951,7 +3951,7 @@ public final class R {
      */
     public static final int ActionMode_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3966,7 +3966,7 @@ public final class R {
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#closeItemLayout}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#closeItemLayout}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3978,7 +3978,7 @@ public final class R {
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#height}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3991,7 +3991,7 @@ public final class R {
      */
     public static final int ActionMode_height=3;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4003,7 +4003,7 @@ public final class R {
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4031,7 +4031,7 @@ public final class R {
         0x7f020071, 0x7f02008a
       };
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#expandActivityOverflowButtonDrawable}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#expandActivityOverflowButtonDrawable}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4043,7 +4043,7 @@ public final class R {
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#initialActivityCount}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#initialActivityCount}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -4090,7 +4090,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4102,7 +4102,7 @@ public final class R {
      */
     public static final int AlertDialog_buttonPanelSideLayout=1;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4114,7 +4114,7 @@ public final class R {
      */
     public static final int AlertDialog_listItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4126,7 +4126,7 @@ public final class R {
      */
     public static final int AlertDialog_listLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4138,7 +4138,7 @@ public final class R {
      */
     public static final int AlertDialog_multiChoiceItemLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4184,7 +4184,7 @@ public final class R {
         0x7f0200c6, 0x7f0200c7
       };
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_scrollFlags}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_scrollFlags}
      * attribute's value can be found in the {@link #AppBarLayout_LayoutParams} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -4204,7 +4204,7 @@ public final class R {
      */
     public static final int AppBarLayout_LayoutParams_layout_scrollFlags=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_scrollInterpolator}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_scrollInterpolator}
      * attribute's value can be found in the {@link #AppBarLayout_LayoutParams} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4231,7 +4231,7 @@ public final class R {
      */
     public static final int AppBarLayout_android_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#elevation}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4244,7 +4244,7 @@ public final class R {
      */
     public static final int AppBarLayout_elevation=1;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#expanded}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#expanded}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -4285,7 +4285,7 @@ public final class R {
      */
     public static final int AppCompatImageView_android_src=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#srcCompat}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#srcCompat}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4325,7 +4325,7 @@ public final class R {
      */
     public static final int AppCompatTextView_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4602,7 +4602,7 @@ public final class R {
         0x7f020142, 0x7f020143, 0x7f020144, 0x7f020145
       };
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionBarDivider}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionBarDivider}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4614,7 +4614,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionBarItemBackground}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionBarItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4626,7 +4626,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionBarPopupTheme}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionBarPopupTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4638,7 +4638,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionBarSize}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionBarSize}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4659,7 +4659,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionBarSplitStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionBarSplitStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4671,7 +4671,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionBarStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4683,7 +4683,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4695,7 +4695,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionBarTabStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionBarTabStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4707,7 +4707,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4719,7 +4719,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionBarTheme}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionBarTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4731,7 +4731,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionBarWidgetTheme}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionBarWidgetTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4743,7 +4743,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionButtonStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4755,7 +4755,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionDropDownStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionDropDownStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4767,7 +4767,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionMenuTextAppearance}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionMenuTextAppearance}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4779,7 +4779,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionMenuTextColor}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionMenuTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4794,7 +4794,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionModeBackground}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionModeBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4806,7 +4806,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4818,7 +4818,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionModeCloseDrawable}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionModeCloseDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4830,7 +4830,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionModeCopyDrawable}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionModeCopyDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4842,7 +4842,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionModeCutDrawable}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionModeCutDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4854,7 +4854,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionModeFindDrawable}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionModeFindDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4866,7 +4866,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionModePasteDrawable}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionModePasteDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4878,7 +4878,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionModePopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionModePopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4890,7 +4890,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionModeSelectAllDrawable}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionModeSelectAllDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4902,7 +4902,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionModeShareDrawable}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionModeShareDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4914,7 +4914,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionModeSplitBackground}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionModeSplitBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4926,7 +4926,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4938,7 +4938,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionModeWebSearchDrawable}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionModeWebSearchDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4950,7 +4950,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4962,7 +4962,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4974,7 +4974,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#activityChooserViewStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#activityChooserViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4986,7 +4986,7 @@ public final class R {
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4998,7 +4998,7 @@ public final class R {
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -5008,7 +5008,7 @@ public final class R {
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5020,7 +5020,7 @@ public final class R {
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#alertDialogTheme}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#alertDialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5054,7 +5054,7 @@ public final class R {
      */
     public static final int AppCompatTheme_android_windowIsFloating=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#autoCompleteTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#autoCompleteTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5066,7 +5066,7 @@ public final class R {
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#borderlessButtonStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#borderlessButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5078,7 +5078,7 @@ public final class R {
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#buttonBarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#buttonBarButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5090,7 +5090,7 @@ public final class R {
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#buttonBarNegativeButtonStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#buttonBarNegativeButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5102,7 +5102,7 @@ public final class R {
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#buttonBarNeutralButtonStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#buttonBarNeutralButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5114,7 +5114,7 @@ public final class R {
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#buttonBarPositiveButtonStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#buttonBarPositiveButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5126,7 +5126,7 @@ public final class R {
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#buttonBarStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#buttonBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5138,7 +5138,7 @@ public final class R {
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#buttonStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#buttonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5150,7 +5150,7 @@ public final class R {
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#buttonStyleSmall}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#buttonStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5162,7 +5162,7 @@ public final class R {
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#checkboxStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#checkboxStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5174,7 +5174,7 @@ public final class R {
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#checkedTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#checkedTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5186,7 +5186,7 @@ public final class R {
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#colorAccent}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#colorAccent}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5197,7 +5197,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#colorButtonNormal}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#colorButtonNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5208,7 +5208,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorButtonNormal=49;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#colorControlActivated}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#colorControlActivated}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5219,7 +5219,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorControlActivated=50;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#colorControlHighlight}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#colorControlHighlight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5230,7 +5230,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorControlHighlight=51;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#colorControlNormal}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#colorControlNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5241,7 +5241,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorControlNormal=52;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#colorPrimary}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#colorPrimary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5252,7 +5252,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorPrimary=53;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#colorPrimaryDark}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#colorPrimaryDark}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5263,7 +5263,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorPrimaryDark=54;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#colorSwitchThumbNormal}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#colorSwitchThumbNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5274,7 +5274,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=55;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#controlBackground}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#controlBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5286,7 +5286,7 @@ public final class R {
      */
     public static final int AppCompatTheme_controlBackground=56;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#dialogPreferredPadding}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#dialogPreferredPadding}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5299,7 +5299,7 @@ public final class R {
      */
     public static final int AppCompatTheme_dialogPreferredPadding=57;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#dialogTheme}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#dialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5311,7 +5311,7 @@ public final class R {
      */
     public static final int AppCompatTheme_dialogTheme=58;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#dividerHorizontal}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#dividerHorizontal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5323,7 +5323,7 @@ public final class R {
      */
     public static final int AppCompatTheme_dividerHorizontal=59;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#dividerVertical}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#dividerVertical}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5335,7 +5335,7 @@ public final class R {
      */
     public static final int AppCompatTheme_dividerVertical=60;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#dropDownListViewStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#dropDownListViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5347,7 +5347,7 @@ public final class R {
      */
     public static final int AppCompatTheme_dropDownListViewStyle=61;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#dropdownListPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#dropdownListPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5360,7 +5360,7 @@ public final class R {
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=62;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#editTextBackground}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#editTextBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5372,7 +5372,7 @@ public final class R {
      */
     public static final int AppCompatTheme_editTextBackground=63;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#editTextColor}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#editTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5387,7 +5387,7 @@ public final class R {
      */
     public static final int AppCompatTheme_editTextColor=64;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#editTextStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#editTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5399,7 +5399,7 @@ public final class R {
      */
     public static final int AppCompatTheme_editTextStyle=65;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5411,7 +5411,7 @@ public final class R {
      */
     public static final int AppCompatTheme_homeAsUpIndicator=66;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#imageButtonStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#imageButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5423,7 +5423,7 @@ public final class R {
      */
     public static final int AppCompatTheme_imageButtonStyle=67;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#listChoiceBackgroundIndicator}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#listChoiceBackgroundIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5435,7 +5435,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=68;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#listDividerAlertDialog}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#listDividerAlertDialog}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5447,7 +5447,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listDividerAlertDialog=69;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5459,7 +5459,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listPopupWindowStyle=70;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#listPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#listPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5472,7 +5472,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listPreferredItemHeight=71;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#listPreferredItemHeightLarge}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#listPreferredItemHeightLarge}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5485,7 +5485,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=72;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#listPreferredItemHeightSmall}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#listPreferredItemHeightSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5498,7 +5498,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=73;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#listPreferredItemPaddingLeft}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#listPreferredItemPaddingLeft}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5511,7 +5511,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=74;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#listPreferredItemPaddingRight}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#listPreferredItemPaddingRight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5524,7 +5524,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=75;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#panelBackground}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#panelBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5536,7 +5536,7 @@ public final class R {
      */
     public static final int AppCompatTheme_panelBackground=76;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#panelMenuListTheme}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#panelMenuListTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5548,7 +5548,7 @@ public final class R {
      */
     public static final int AppCompatTheme_panelMenuListTheme=77;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#panelMenuListWidth}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#panelMenuListWidth}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5561,7 +5561,7 @@ public final class R {
      */
     public static final int AppCompatTheme_panelMenuListWidth=78;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#popupMenuStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#popupMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5573,7 +5573,7 @@ public final class R {
      */
     public static final int AppCompatTheme_popupMenuStyle=79;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#popupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#popupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5585,7 +5585,7 @@ public final class R {
      */
     public static final int AppCompatTheme_popupWindowStyle=80;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#radioButtonStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#radioButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5597,7 +5597,7 @@ public final class R {
      */
     public static final int AppCompatTheme_radioButtonStyle=81;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#ratingBarStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#ratingBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5609,7 +5609,7 @@ public final class R {
      */
     public static final int AppCompatTheme_ratingBarStyle=82;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#ratingBarStyleIndicator}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#ratingBarStyleIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5621,7 +5621,7 @@ public final class R {
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=83;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#ratingBarStyleSmall}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#ratingBarStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5633,7 +5633,7 @@ public final class R {
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=84;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#searchViewStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#searchViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5645,7 +5645,7 @@ public final class R {
      */
     public static final int AppCompatTheme_searchViewStyle=85;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#seekBarStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#seekBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5657,7 +5657,7 @@ public final class R {
      */
     public static final int AppCompatTheme_seekBarStyle=86;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#selectableItemBackground}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#selectableItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5669,7 +5669,7 @@ public final class R {
      */
     public static final int AppCompatTheme_selectableItemBackground=87;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#selectableItemBackgroundBorderless}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#selectableItemBackgroundBorderless}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5681,7 +5681,7 @@ public final class R {
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=88;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#spinnerDropDownItemStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#spinnerDropDownItemStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5693,7 +5693,7 @@ public final class R {
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=89;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#spinnerStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#spinnerStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5705,7 +5705,7 @@ public final class R {
      */
     public static final int AppCompatTheme_spinnerStyle=90;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#switchStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#switchStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5717,7 +5717,7 @@ public final class R {
      */
     public static final int AppCompatTheme_switchStyle=91;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#textAppearanceLargePopupMenu}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#textAppearanceLargePopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5729,7 +5729,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=92;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#textAppearanceListItem}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#textAppearanceListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5741,7 +5741,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textAppearanceListItem=93;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#textAppearanceListItemSmall}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#textAppearanceListItemSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5753,7 +5753,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=94;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#textAppearanceSearchResultSubtitle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#textAppearanceSearchResultSubtitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5765,7 +5765,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=95;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#textAppearanceSearchResultTitle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#textAppearanceSearchResultTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5777,7 +5777,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=96;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#textAppearanceSmallPopupMenu}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#textAppearanceSmallPopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5789,7 +5789,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=97;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#textColorAlertDialogListItem}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#textColorAlertDialogListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5804,7 +5804,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=98;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#textColorSearchUrl}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#textColorSearchUrl}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5819,7 +5819,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textColorSearchUrl=99;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#toolbarNavigationButtonStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#toolbarNavigationButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5831,7 +5831,7 @@ public final class R {
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=100;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#toolbarStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#toolbarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5843,7 +5843,7 @@ public final class R {
      */
     public static final int AppCompatTheme_toolbarStyle=101;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#windowActionBar}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#windowActionBar}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -5853,7 +5853,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowActionBar=102;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#windowActionBarOverlay}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#windowActionBarOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -5863,7 +5863,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowActionBarOverlay=103;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#windowActionModeOverlay}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#windowActionModeOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -5873,7 +5873,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowActionModeOverlay=104;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#windowFixedHeightMajor}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#windowFixedHeightMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5890,7 +5890,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=105;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#windowFixedHeightMinor}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#windowFixedHeightMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5907,7 +5907,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=106;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#windowFixedWidthMajor}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#windowFixedWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5924,7 +5924,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=107;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#windowFixedWidthMinor}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#windowFixedWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5941,7 +5941,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=108;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#windowMinWidthMajor}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#windowMinWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5958,7 +5958,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowMinWidthMajor=109;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#windowMinWidthMinor}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#windowMinWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5975,7 +5975,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowMinWidthMinor=110;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#windowNoTitle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#windowNoTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -6001,7 +6001,7 @@ public final class R {
         0x7f020030, 0x7f020032
       };
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#behavior_hideable}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#behavior_hideable}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Params} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -6011,7 +6011,7 @@ public final class R {
      */
     public static final int BottomSheetBehavior_Params_behavior_hideable=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#behavior_peekHeight}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#behavior_peekHeight}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Params} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6038,7 +6038,7 @@ public final class R {
         0x7f020026
       };
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#allowStacking}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#allowStacking}
      * attribute's value can be found in the {@link #ButtonBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -6064,7 +6064,7 @@ public final class R {
         0x7f020098, 0x7f020099
       };
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_collapseMode}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_collapseMode}
      * attribute's value can be found in the {@link #CollapsingAppBarLayout_LayoutParams} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -6082,7 +6082,7 @@ public final class R {
      */
     public static final int CollapsingAppBarLayout_LayoutParams_layout_collapseMode=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_collapseParallaxMultiplier}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_collapseParallaxMultiplier}
      * attribute's value can be found in the {@link #CollapsingAppBarLayout_LayoutParams} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -6134,7 +6134,7 @@ public final class R {
         0x7f02012d, 0x7f020136
       };
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#collapsedTitleGravity}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#collapsedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -6159,7 +6159,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_collapsedTitleGravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#collapsedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#collapsedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6171,7 +6171,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance=1;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#contentScrim}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#contentScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -6182,7 +6182,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_contentScrim=2;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#expandedTitleGravity}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#expandedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -6207,7 +6207,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_expandedTitleGravity=3;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#expandedTitleMargin}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#expandedTitleMargin}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6220,7 +6220,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_expandedTitleMargin=4;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#expandedTitleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#expandedTitleMarginBottom}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6233,7 +6233,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginBottom=5;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#expandedTitleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#expandedTitleMarginEnd}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6246,7 +6246,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginEnd=6;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#expandedTitleMarginStart}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#expandedTitleMarginStart}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6259,7 +6259,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#expandedTitleMarginTop}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#expandedTitleMarginTop}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6272,7 +6272,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginTop=8;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#expandedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#expandedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6284,7 +6284,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_expandedTitleTextAppearance=9;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#statusBarScrim}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#statusBarScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -6295,7 +6295,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_statusBarScrim=10;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#title}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -6305,7 +6305,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_title=11;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#titleEnabled}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#titleEnabled}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -6315,7 +6315,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_titleEnabled=12;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#toolbarId}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#toolbarId}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6357,7 +6357,7 @@ public final class R {
      */
     public static final int CompoundButton_android_button=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#buttonTint}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#buttonTint}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -6368,7 +6368,7 @@ public final class R {
      */
     public static final int CompoundButton_buttonTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#buttonTintMode}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#buttonTintMode}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -6579,7 +6579,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_android_orientation=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#constraintSet}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#constraintSet}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6591,7 +6591,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_constraintSet=5;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -6600,7 +6600,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_creator=6;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6620,7 +6620,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf=7;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -6629,7 +6629,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_creator=8;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6649,7 +6649,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toBottomOf=9;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6669,7 +6669,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toTopOf=10;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -6679,7 +6679,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintDimensionRatio=11;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6699,7 +6699,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toEndOf=12;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6719,7 +6719,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toStartOf=13;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6732,7 +6732,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_begin=14;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6745,7 +6745,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_end=15;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -6754,7 +6754,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_percent=16;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -6771,7 +6771,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_default=17;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6784,7 +6784,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_max=18;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6797,7 +6797,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_min=19;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -6806,7 +6806,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_bias=20;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -6824,7 +6824,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle=21;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -6833,7 +6833,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_weight=22;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -6842,7 +6842,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_creator=23;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6862,7 +6862,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toLeftOf=24;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6882,7 +6882,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toRightOf=25;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -6891,7 +6891,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_creator=26;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6911,7 +6911,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toLeftOf=27;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6931,7 +6931,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toRightOf=28;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6951,7 +6951,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toEndOf=29;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6971,7 +6971,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toStartOf=30;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -6980,7 +6980,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_creator=31;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7000,7 +7000,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toBottomOf=32;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7020,7 +7020,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toTopOf=33;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -7029,7 +7029,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_bias=34;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7047,7 +7047,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_chainStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -7056,7 +7056,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_weight=36;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7073,7 +7073,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_default=37;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7086,7 +7086,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_max=38;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7099,7 +7099,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_min=39;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7112,7 +7112,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteX=40;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7125,7 +7125,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteY=41;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7138,7 +7138,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginBottom=42;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7151,7 +7151,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginEnd=43;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7164,7 +7164,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginLeft=44;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7177,7 +7177,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginRight=45;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7190,7 +7190,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginStart=46;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7203,7 +7203,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginTop=47;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_optimizationLevel}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_optimizationLevel}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -7671,7 +7671,7 @@ public final class R {
      */
     public static final int ConstraintSet_android_visibility=2;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -7680,7 +7680,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintBaseline_creator=22;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7700,7 +7700,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintBaseline_toBaselineOf=23;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -7709,7 +7709,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintBottom_creator=24;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7729,7 +7729,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintBottom_toBottomOf=25;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7749,7 +7749,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintBottom_toTopOf=26;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -7759,7 +7759,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintDimensionRatio=27;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7779,7 +7779,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintEnd_toEndOf=28;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7799,7 +7799,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintEnd_toStartOf=29;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7812,7 +7812,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintGuide_begin=30;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7825,7 +7825,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintGuide_end=31;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -7834,7 +7834,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintGuide_percent=32;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7851,7 +7851,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintHeight_default=33;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7864,7 +7864,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintHeight_max=34;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7877,7 +7877,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintHeight_min=35;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -7886,7 +7886,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintHorizontal_bias=36;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7904,7 +7904,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintHorizontal_chainStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -7913,7 +7913,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintHorizontal_weight=38;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -7922,7 +7922,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintLeft_creator=39;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7942,7 +7942,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintLeft_toLeftOf=40;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7962,7 +7962,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintLeft_toRightOf=41;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -7971,7 +7971,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintRight_creator=42;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7991,7 +7991,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintRight_toLeftOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8011,7 +8011,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintRight_toRightOf=44;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8031,7 +8031,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintStart_toEndOf=45;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8051,7 +8051,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintStart_toStartOf=46;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -8060,7 +8060,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintTop_creator=47;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8080,7 +8080,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintTop_toBottomOf=48;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8100,7 +8100,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintTop_toTopOf=49;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -8109,7 +8109,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintVertical_bias=50;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8127,7 +8127,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintVertical_chainStyle=51;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -8136,7 +8136,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintVertical_weight=52;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8153,7 +8153,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintWidth_default=53;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8166,7 +8166,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintWidth_max=54;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8179,7 +8179,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintWidth_min=55;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8192,7 +8192,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_editor_absoluteX=56;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8205,7 +8205,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_editor_absoluteY=57;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8218,7 +8218,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_goneMarginBottom=58;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8231,7 +8231,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_goneMarginEnd=59;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8244,7 +8244,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_goneMarginLeft=60;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8257,7 +8257,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_goneMarginRight=61;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8270,7 +8270,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_goneMarginStart=62;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8351,7 +8351,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_LayoutParams_android_layout_gravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_anchor}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_anchor}
      * attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8363,7 +8363,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_LayoutParams_layout_anchor=1;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_anchorGravity}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_anchorGravity}
      * attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -8392,7 +8392,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_LayoutParams_layout_anchorGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_behavior}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_behavior}
      * attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -8402,7 +8402,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_LayoutParams_layout_behavior=3;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout_keyline}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout_keyline}
      * attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -8411,7 +8411,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_LayoutParams_layout_keyline=4;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#keylines}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#keylines}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8423,7 +8423,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#statusBarBackground}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#statusBarBackground}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8453,7 +8453,7 @@ public final class R {
         0x7f020035, 0x7f020036, 0x7f020127
       };
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#bottomSheetDialogTheme}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#bottomSheetDialogTheme}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8465,7 +8465,7 @@ public final class R {
      */
     public static final int DesignTheme_bottomSheetDialogTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#bottomSheetStyle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#bottomSheetStyle}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8477,7 +8477,7 @@ public final class R {
      */
     public static final int DesignTheme_bottomSheetStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#textColorError}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#textColorError}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -8517,7 +8517,7 @@ public final class R {
         0x7f020067, 0x7f02007c, 0x7f0200fc, 0x7f02012a
       };
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#arrowHeadLength}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#arrowHeadLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8530,7 +8530,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#arrowShaftLength}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#arrowShaftLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8543,7 +8543,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#barLength}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#barLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8556,7 +8556,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#color}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#color}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -8567,7 +8567,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_color=3;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#drawableSize}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#drawableSize}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8580,7 +8580,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#gapBetweenBars}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#gapBetweenBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8593,7 +8593,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#spinBars}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#spinBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -8603,7 +8603,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#thickness}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#thickness}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8645,7 +8645,7 @@ public final class R {
         0x7f02007a, 0x7f0200e6, 0x7f0200f0, 0x7f02013a
       };
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -8656,7 +8656,7 @@ public final class R {
      */
     public static final int FloatingActionButton_backgroundTint=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8676,7 +8676,7 @@ public final class R {
      */
     public static final int FloatingActionButton_backgroundTintMode=1;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#borderWidth}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#borderWidth}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8689,7 +8689,7 @@ public final class R {
      */
     public static final int FloatingActionButton_borderWidth=2;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#elevation}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8702,7 +8702,7 @@ public final class R {
      */
     public static final int FloatingActionButton_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#fabSize}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#fabSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8719,7 +8719,7 @@ public final class R {
      */
     public static final int FloatingActionButton_fabSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#pressedTranslationZ}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#pressedTranslationZ}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8732,7 +8732,7 @@ public final class R {
      */
     public static final int FloatingActionButton_pressedTranslationZ=5;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#rippleColor}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -8743,7 +8743,7 @@ public final class R {
      */
     public static final int FloatingActionButton_rippleColor=6;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#useCompatPadding}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#useCompatPadding}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -8813,7 +8813,7 @@ public final class R {
      */
     public static final int ForegroundLinearLayout_android_foregroundGravity=1;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#foregroundInsidePadding}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#foregroundInsidePadding}
      * attribute's value can be found in the {@link #ForegroundLinearLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -9064,7 +9064,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_weightSum=4;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#divider}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9076,7 +9076,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#dividerPadding}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#dividerPadding}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9089,7 +9089,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#measureWithLargestChild}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#measureWithLargestChild}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -9099,7 +9099,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#showDividers}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#showDividers}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -9313,7 +9313,7 @@ public final class R {
         0x7f0200f7
       };
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionLayout}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionLayout}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9325,7 +9325,7 @@ public final class R {
      */
     public static final int MenuItem_actionLayout=13;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionProviderClass}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionProviderClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -9335,7 +9335,7 @@ public final class R {
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#actionViewClass}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#actionViewClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -9487,7 +9487,7 @@ public final class R {
      */
     public static final int MenuItem_android_visible=4;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#showAsAction}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#showAsAction}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -9623,7 +9623,7 @@ public final class R {
      */
     public static final int MenuView_android_windowAnimationStyle=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#preserveIconSpacing}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#preserveIconSpacing}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -9705,7 +9705,7 @@ public final class R {
      */
     public static final int NavigationView_android_maxWidth=2;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#elevation}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9718,7 +9718,7 @@ public final class R {
      */
     public static final int NavigationView_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#headerLayout}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#headerLayout}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9730,7 +9730,7 @@ public final class R {
      */
     public static final int NavigationView_headerLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#itemBackground}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9742,7 +9742,7 @@ public final class R {
      */
     public static final int NavigationView_itemBackground=5;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -9753,7 +9753,7 @@ public final class R {
      */
     public static final int NavigationView_itemIconTint=6;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#itemTextAppearance}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#itemTextAppearance}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9765,7 +9765,7 @@ public final class R {
      */
     public static final int NavigationView_itemTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -9776,7 +9776,7 @@ public final class R {
      */
     public static final int NavigationView_itemTextColor=8;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#menu}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#menu}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9818,7 +9818,7 @@ public final class R {
         0x7f020102
       };
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#state_above_anchor}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#state_above_anchor}
      * attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -9843,7 +9843,7 @@ public final class R {
      */
     public static final int PopupWindow_android_popupBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#overlapAnchor}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#overlapAnchor}
      * attribute's value can be found in the {@link #PopupWindow} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -9893,7 +9893,7 @@ public final class R {
      */
     public static final int RecyclerView_android_orientation=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layoutManager}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layoutManager}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -9903,7 +9903,7 @@ public final class R {
      */
     public static final int RecyclerView_layoutManager=1;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#reverseLayout}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#reverseLayout}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -9913,7 +9913,7 @@ public final class R {
      */
     public static final int RecyclerView_reverseLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#spanCount}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#spanCount}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -9922,7 +9922,7 @@ public final class R {
      */
     public static final int RecyclerView_spanCount=3;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#stackFromEnd}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#stackFromEnd}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -9946,7 +9946,7 @@ public final class R {
         0x7f02008b
       };
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#insetForeground}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#insetForeground}
      * attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9975,7 +9975,7 @@ public final class R {
         0x7f020031
       };
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#behavior_overlapTop}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#behavior_overlapTop}
      * attribute's value can be found in the {@link #ScrollingViewBehavior_Params} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10139,7 +10139,7 @@ public final class R {
      */
     public static final int SearchView_android_maxWidth=1;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#closeIcon}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#closeIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10151,7 +10151,7 @@ public final class R {
      */
     public static final int SearchView_closeIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#commitIcon}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#commitIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10163,7 +10163,7 @@ public final class R {
      */
     public static final int SearchView_commitIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#defaultQueryHint}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#defaultQueryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -10173,7 +10173,7 @@ public final class R {
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#goIcon}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#goIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10185,7 +10185,7 @@ public final class R {
      */
     public static final int SearchView_goIcon=7;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#iconifiedByDefault}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#iconifiedByDefault}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -10195,7 +10195,7 @@ public final class R {
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#layout}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#layout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10207,7 +10207,7 @@ public final class R {
      */
     public static final int SearchView_layout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#queryBackground}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#queryBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10219,7 +10219,7 @@ public final class R {
      */
     public static final int SearchView_queryBackground=10;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#queryHint}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#queryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -10229,7 +10229,7 @@ public final class R {
      */
     public static final int SearchView_queryHint=11;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#searchHintIcon}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#searchHintIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10241,7 +10241,7 @@ public final class R {
      */
     public static final int SearchView_searchHintIcon=12;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#searchIcon}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#searchIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10253,7 +10253,7 @@ public final class R {
      */
     public static final int SearchView_searchIcon=13;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#submitBackground}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#submitBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10265,7 +10265,7 @@ public final class R {
      */
     public static final int SearchView_submitBackground=14;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#suggestionRowLayout}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#suggestionRowLayout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10277,7 +10277,7 @@ public final class R {
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#voiceIcon}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#voiceIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10320,7 +10320,7 @@ public final class R {
      */
     public static final int SnackbarLayout_android_maxWidth=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#elevation}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10333,7 +10333,7 @@ public final class R {
      */
     public static final int SnackbarLayout_elevation=1;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#maxActionInlineWidth}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#maxActionInlineWidth}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10431,7 +10431,7 @@ public final class R {
      */
     public static final int Spinner_android_prompt=2;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10509,7 +10509,7 @@ public final class R {
      */
     public static final int SwitchCompat_android_thumb=2;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#showText}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#showText}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -10519,7 +10519,7 @@ public final class R {
      */
     public static final int SwitchCompat_showText=3;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#splitTrack}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#splitTrack}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -10529,7 +10529,7 @@ public final class R {
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#switchMinWidth}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#switchMinWidth}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10542,7 +10542,7 @@ public final class R {
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#switchPadding}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#switchPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10555,7 +10555,7 @@ public final class R {
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#switchTextAppearance}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#switchTextAppearance}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10567,7 +10567,7 @@ public final class R {
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#thumbTextPadding}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#thumbTextPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10580,7 +10580,7 @@ public final class R {
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#track}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#track}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10691,7 +10691,7 @@ public final class R {
         0x7f02011b, 0x7f02011c, 0x7f02011d, 0x7f02011e
       };
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#tabBackground}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#tabBackground}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10703,7 +10703,7 @@ public final class R {
      */
     public static final int TabLayout_tabBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#tabContentStart}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#tabContentStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10716,7 +10716,7 @@ public final class R {
      */
     public static final int TabLayout_tabContentStart=1;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#tabGravity}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#tabGravity}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10733,7 +10733,7 @@ public final class R {
      */
     public static final int TabLayout_tabGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#tabIndicatorColor}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#tabIndicatorColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -10744,7 +10744,7 @@ public final class R {
      */
     public static final int TabLayout_tabIndicatorColor=3;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#tabIndicatorHeight}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#tabIndicatorHeight}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10757,7 +10757,7 @@ public final class R {
      */
     public static final int TabLayout_tabIndicatorHeight=4;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#tabMaxWidth}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#tabMaxWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10770,7 +10770,7 @@ public final class R {
      */
     public static final int TabLayout_tabMaxWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#tabMinWidth}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#tabMinWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10783,7 +10783,7 @@ public final class R {
      */
     public static final int TabLayout_tabMinWidth=6;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#tabMode}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#tabMode}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10800,7 +10800,7 @@ public final class R {
      */
     public static final int TabLayout_tabMode=7;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#tabPadding}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#tabPadding}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10813,7 +10813,7 @@ public final class R {
      */
     public static final int TabLayout_tabPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#tabPaddingBottom}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#tabPaddingBottom}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10826,7 +10826,7 @@ public final class R {
      */
     public static final int TabLayout_tabPaddingBottom=9;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#tabPaddingEnd}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#tabPaddingEnd}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10839,7 +10839,7 @@ public final class R {
      */
     public static final int TabLayout_tabPaddingEnd=10;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#tabPaddingStart}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#tabPaddingStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10852,7 +10852,7 @@ public final class R {
      */
     public static final int TabLayout_tabPaddingStart=11;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#tabPaddingTop}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#tabPaddingTop}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10865,7 +10865,7 @@ public final class R {
      */
     public static final int TabLayout_tabPaddingTop=12;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#tabSelectedTextColor}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#tabSelectedTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -10876,7 +10876,7 @@ public final class R {
      */
     public static final int TabLayout_tabSelectedTextColor=13;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#tabTextAppearance}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#tabTextAppearance}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10888,7 +10888,7 @@ public final class R {
      */
     public static final int TabLayout_tabTextAppearance=14;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#tabTextColor}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#tabTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -11034,7 +11034,7 @@ public final class R {
      */
     public static final int TextAppearance_android_typeface=1;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11109,7 +11109,7 @@ public final class R {
      */
     public static final int TextInputLayout_android_textColorHint=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#counterEnabled}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#counterEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -11119,7 +11119,7 @@ public final class R {
      */
     public static final int TextInputLayout_counterEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#counterMaxLength}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#counterMaxLength}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -11128,7 +11128,7 @@ public final class R {
      */
     public static final int TextInputLayout_counterMaxLength=3;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#counterOverflowTextAppearance}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#counterOverflowTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11140,7 +11140,7 @@ public final class R {
      */
     public static final int TextInputLayout_counterOverflowTextAppearance=4;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#counterTextAppearance}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#counterTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11152,7 +11152,7 @@ public final class R {
      */
     public static final int TextInputLayout_counterTextAppearance=5;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#errorEnabled}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#errorEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -11162,7 +11162,7 @@ public final class R {
      */
     public static final int TextInputLayout_errorEnabled=6;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#errorTextAppearance}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#errorTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11174,7 +11174,7 @@ public final class R {
      */
     public static final int TextInputLayout_errorTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#hintAnimationEnabled}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#hintAnimationEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -11184,7 +11184,7 @@ public final class R {
      */
     public static final int TextInputLayout_hintAnimationEnabled=8;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#hintEnabled}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#hintEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -11194,7 +11194,7 @@ public final class R {
      */
     public static final int TextInputLayout_hintEnabled=9;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#hintTextAppearance}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#hintTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11316,7 +11316,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#collapseContentDescription}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#collapseContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -11326,7 +11326,7 @@ public final class R {
      */
     public static final int Toolbar_collapseContentDescription=2;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#collapseIcon}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#collapseIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11338,7 +11338,7 @@ public final class R {
      */
     public static final int Toolbar_collapseIcon=3;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11351,7 +11351,7 @@ public final class R {
      */
     public static final int Toolbar_contentInsetEnd=4;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11364,7 +11364,7 @@ public final class R {
      */
     public static final int Toolbar_contentInsetLeft=5;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11377,7 +11377,7 @@ public final class R {
      */
     public static final int Toolbar_contentInsetRight=6;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11390,7 +11390,7 @@ public final class R {
      */
     public static final int Toolbar_contentInsetStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#logo}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11402,7 +11402,7 @@ public final class R {
      */
     public static final int Toolbar_logo=8;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#logoDescription}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#logoDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -11412,7 +11412,7 @@ public final class R {
      */
     public static final int Toolbar_logoDescription=9;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11425,7 +11425,7 @@ public final class R {
      */
     public static final int Toolbar_maxButtonHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#navigationContentDescription}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#navigationContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -11435,7 +11435,7 @@ public final class R {
      */
     public static final int Toolbar_navigationContentDescription=11;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#navigationIcon}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#navigationIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11447,7 +11447,7 @@ public final class R {
      */
     public static final int Toolbar_navigationIcon=12;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11459,7 +11459,7 @@ public final class R {
      */
     public static final int Toolbar_popupTheme=13;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#subtitle}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -11469,7 +11469,7 @@ public final class R {
      */
     public static final int Toolbar_subtitle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11481,7 +11481,7 @@ public final class R {
      */
     public static final int Toolbar_subtitleTextAppearance=15;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#subtitleTextColor}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#subtitleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -11492,7 +11492,7 @@ public final class R {
      */
     public static final int Toolbar_subtitleTextColor=16;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -11502,7 +11502,7 @@ public final class R {
      */
     public static final int Toolbar_title=17;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#titleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#titleMarginBottom}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11515,7 +11515,7 @@ public final class R {
      */
     public static final int Toolbar_titleMarginBottom=18;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#titleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#titleMarginEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11528,7 +11528,7 @@ public final class R {
      */
     public static final int Toolbar_titleMarginEnd=19;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#titleMarginStart}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#titleMarginStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11541,7 +11541,7 @@ public final class R {
      */
     public static final int Toolbar_titleMarginStart=20;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#titleMarginTop}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#titleMarginTop}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11554,7 +11554,7 @@ public final class R {
      */
     public static final int Toolbar_titleMarginTop=21;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#titleMargins}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#titleMargins}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11567,7 +11567,7 @@ public final class R {
      */
     public static final int Toolbar_titleMargins=22;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11579,7 +11579,7 @@ public final class R {
      */
     public static final int Toolbar_titleTextAppearance=23;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#titleTextColor}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#titleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -11646,7 +11646,7 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_android_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -11657,7 +11657,7 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11753,7 +11753,7 @@ public final class R {
      */
     public static final int View_android_theme=0;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#paddingEnd}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#paddingEnd}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11766,7 +11766,7 @@ public final class R {
      */
     public static final int View_paddingEnd=2;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#paddingStart}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#paddingStart}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11779,7 +11779,7 @@ public final class R {
      */
     public static final int View_paddingStart=3;
     /**
-     * <p>This symbol is the offset where the {@link com.amoid.Smartbear.R.attr#theme}
+     * <p>This symbol is the offset where the {@link com.amoid.mqttclientandroid.R.attr#theme}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a reference to another resource, in the form

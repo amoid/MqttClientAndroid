@@ -1,4 +1,4 @@
-package com.lichfaker.mqttclientandroid;
+package com.amoit.smartbear;
 
 import org.junit.Test;
 
