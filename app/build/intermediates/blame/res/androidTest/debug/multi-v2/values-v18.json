@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\android_dev\\MqttClientAndroid\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v18\\values-v18.xml",
+            "outputFile": "D:\\d\\MqttClientAndroid\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v18\\values-v18.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\zewan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\ac036391a0b95ec5666231423eeeaedb\\res\\values-v18\\values-v18.xml",
+                    "source": "C:\\Users\\zewanz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\65fdb52609d1fa486922a8b95fc84584\\res\\values-v18\\values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
